@@ -1,0 +1,87 @@
+{
+  //sets the trackers layout
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#layouts
+  "tracker_default": {
+    "type": "container",
+    "background": "#212121",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "dock",
+              "dock": "bottom",
+              "v_alignment": "stretch",
+              "content": [
+                {
+                  "type": "group",
+                  "header": "Key Items",
+                  "dock": "left",
+                  "content": {
+                    "type": "layout",
+                    "key": "shared_item_grid"
+                  }
+                }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "shared_item_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Thanatara Canyon",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "canyon"
+                ]
+              }
+            },
+            {
+              "title": "Map 2",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "map2"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

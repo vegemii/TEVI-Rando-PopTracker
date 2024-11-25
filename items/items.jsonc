@@ -1,0 +1,405 @@
+[
+	{
+		"name": "Knife",
+		"type": "toggle",
+		"img": "images/items/knife.png",
+		"codes": "knife"
+	},
+
+	{
+		"name": "Sable",
+		"type": "toggle",
+		"img": "images/items/orb_s.png",
+		"codes": "sable"
+	},
+
+	{
+		"name": "Celia",
+		"type": "toggle",
+		"img": "images/items/orb_c.png",
+		"codes": "celia"
+	},
+
+	{
+		"name": "Charge Shot",
+		"type": "progressive",
+		"stages": [
+		{
+		"img": "images/items/shot_Basic.png",
+		"codes": "charge1"
+		},
+		{
+		"img": "images/items/shot_Charge.png",
+		"codes": "charge2"
+		},
+		{
+		"img": "images/items/shot_SC.png",
+		"codes": "charge3"
+		}	
+		]
+	},
+
+	{
+		"name": "Cross Bomb",
+		"type": "toggle",
+		"img": "images/items/bomb_Place.png",
+		"codes": "bombs"
+	},
+
+	{
+		"name": "Cluster Bomb",
+		"type": "toggle",
+		"img": "images/items/bomb_Throw.png",
+		"codes": "bombThrow"
+	},
+
+	{
+		"name": "Bomb Fuel",
+		"type": "toggle",
+		"img": "images/items/bomb_Rocks.png",
+		"codes": "bombFuel"
+	},
+
+	{
+		"name": "Combustible",
+		"type": "progressive",
+		"stages": [
+		{
+		"img": "images/items/bomb_Range.png",
+		"codes": "bombRange1"
+		},
+		{
+		"img": "images/items/bomb_Range2.png",
+		"codes": "bombRange2"
+		},
+		{
+		"img": "images/items/bomb_Range3.png",
+		"codes": "bombRange3"
+		}
+		]
+	},
+
+	{
+		"name": "Speed Boots",
+		"type": "progressive",
+		"stages": [
+		{
+		"img": "images/items/speed.png",
+		"codes": "speed1"
+		},
+		{
+		"img": "images/items/speed2.png",
+		"codes": "speed2"
+		},
+		{
+		"img": "images/items/speed3.png",
+		"codes": "speed3"
+		}
+		]
+	},
+	
+	{
+		"name": "Ice Boots",
+		"type": "toggle",
+		"img": "images/items/slipBoots.png",
+		"codes": "slip"
+	},
+
+	{
+		"name": "Slide",
+		"type": "toggle",
+		"img": "images/items/slide.png",
+		"codes": "slide"
+	},
+
+	{
+		"name": "Air Dash",
+		"type": "toggle",
+		"img": "images/items/dash.png",
+		"codes": "airDash"
+	},
+
+	{
+		"name": "Slippers",
+		"type": "toggle",
+		"img": "images/items/jump_Height.png",
+		"codes": "slippers"
+	},
+
+	{
+		"name": "Air Jump",
+		"type": "toggle",
+		"img": "images/items/jump_Double.png",
+		"codes": "airJump"
+	},
+
+	{
+		"name": "Wall Jump",
+		"type": "progressive",
+		"stages": [
+		{
+		"img": "images/items/jump_Wall.png",
+		"codes": "wallJump1"
+		},
+		{
+		"img": "images/items/jump_Wall2.png",
+		"codes": "wallJump2"
+		},
+		{
+		"img": "images/items/jump_Wall3.png",
+		"codes": "wallJump3"
+		}
+		]
+	},
+
+	{
+		"name": "Hydrodynamo",
+		"type": "toggle",
+		"img": "images/items/water.png",
+		"codes": "water"
+	},
+
+	{
+		"name": "Jetpack",
+		"type": "progressive",
+		"stages": [
+		{
+		"img": "images/items/jetpack.png",
+		"codes": "jetpack1"
+		},
+		{
+		"img": "images/items/jetpack2.png",
+		"codes": "jetpack2"
+		},
+		{
+		"img": "images/items/jetpack3.png",
+		"codes": "jetpack3"
+		}
+		]
+	},
+
+	{
+		"name": "Slide Powder",
+		"type": "toggle",
+		"img": "images/items/slide_Powder.png",
+		"codes": "powder"
+	},
+
+	{
+		"name": "Vortex Gloves",
+		"type": "toggle",
+		"img": "images/items/vortex.png",
+		"codes": "vortex"
+	},
+
+	{
+		"name": "Peacekeeper Emblem",
+		"type": "toggle",
+		"img": "images/items/emblem.png",
+		"codes": "emblem"
+	},
+
+	{
+		"name": "Decay Mask",
+		"type": "toggle",
+		"img": "images/items/decay_Mask.png",
+		"codes": "decayMask"
+	},
+
+	{
+		"name": "Decay Potion",
+		"type": "toggle",
+		"img": "images/items/decay_Potion.png",
+		"codes": "decayPotion"
+	},
+
+	{
+		"name": "Decay Crystal",
+		"type": "toggle",
+		"img": "images/items/decay_Crystal.png",
+		"codes": "decayCrystal"
+	},
+
+	{
+		"name": "Equilibrium Ring",
+		"type": "toggle",
+		"img": "images/items/ring_Temp.png",
+		"codes": "ringTemp"
+	},
+
+	{
+		"name": "Interrupt",
+		"type": "toggle",
+		"img": "images/items/interrupt.png",
+		"codes": "interrupt"
+	},
+
+	{
+		"name": "Soul Burst",
+		"type": "toggle",
+		"img": "images/items/burst.png",
+		"codes": "burst"
+	},
+
+	{
+		"name": "Sable B",
+		"type": "toggle",
+		"img": "images/items/orb_s2.png",
+		"codes": "orbS2"
+	},
+
+	{
+		"name": "Sable C",
+		"type": "toggle",
+		"img": "images/items/orb_s3.png",
+		"codes": "orbS3"
+	},
+
+	{
+		"name": "Celia B",
+		"type": "toggle",
+		"img": "images/items/orb_c2.png",
+		"codes": "orbC2"
+	},
+
+	{
+		"name": "Celia C",
+		"type": "toggle",
+		"img": "images/items/orb_c3.png",
+		"codes": "orbC3"
+	},
+
+	{
+		"name": "Blueprints",
+		"type": "toggle",
+		"img": "images/items/orb_Boost.png",
+		"codes": "boost"
+	},
+
+	{
+		"name": "Core Expansion Up",
+		"type": "toggle",
+		"img": "images/items/tablet_Up.png",
+		"codes": "boostU"
+	},
+
+	{
+		"name": "Core Expansion Down",
+		"type": "toggle",
+		"img": "images/items/tablet_Down.png",
+		"codes": "boostD"
+	},
+
+	{
+		"name": "Tartarus Ticket",
+		"type": "toggle",
+		"img": "images/items/train_Hell.png",
+		"codes": "ticketHell"
+	},
+
+	{
+		"name": "Valhalla Ticket",
+		"type": "toggle",
+		"img": "images/items/train_Heaven.png",
+		"codes": "ticketHeaven"
+	},
+
+	{
+		"name": "Spanner",
+		"type": "toggle",
+		"img": "images/items/knife_Combo.png",
+		"codes": "knifeCombo"
+	},
+
+	{
+		"name": "Melee Extender",
+		"type": "toggle",
+		"img": "images/items/knife_Extend.png",
+		"codes": "knifeExtend"
+	},
+
+	{
+		"name": "Rapid Shots",
+		"type": "toggle",
+		"img": "images/items/orb_Rapid.png",
+		"codes": "orbRapid"
+	},
+
+	{
+		"name": "Dodge Ring",
+		"type": "toggle",
+		"img": "images/items/ring_Dodge.png",
+		"codes": "ringDodge"
+	},
+
+	{
+		"name": "Gauntlet",
+		"type": "toggle",
+		"img": "images/items/gauntlet.png",
+		"codes": "gauntlet"
+	},
+
+	{
+		"name": "Compass",
+		"type": "toggle",
+		"img": "images/items/compass.png",
+		"codes": "compass"
+	},
+
+	{
+		"name": "Kitty Paw",
+		"type": "toggle",
+		"img": "images/items/paw.png",
+		"codes": "paw"
+	},
+
+	{
+		"name": "Level Emblem",
+		"type": "toggle",
+		"img": "images/items/level.png",
+		"codes": "level"
+	},
+
+	{
+		"name": "Library Key",
+		"type": "toggle",
+		"img": "images/items/key.png",
+		"codes": "key"
+	},
+
+	{
+		"name": "Left Hand",
+		"type": "toggle",
+		"img": "images/items/hand_Left.png",
+		"codes": "handLeft"
+	},
+
+	{
+		"name": "Right Hand",
+		"type": "toggle",
+		"img": "images/items/hand_Right.png",
+		"codes": "handRight"
+	},
+
+	{
+		"name": "Hands",
+		"type": "toggle",
+		"img": "images/items/hands.png",
+		"codes": "hands"
+	},
+
+	{
+		"name": "Bunny Pillow",
+		"type": "toggle",
+		"img": "images/items/pillow.png",
+		"codes": "pillow"
+	},
+	{
+		"name": "Astral Gear",
+		"type": "consumable",
+		"max_quantity": 25,
+		"increment": 1,
+		"img": "images/items/gear.png",
+		"codes": "gear"
+	}
+]

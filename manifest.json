@@ -1,0 +1,31 @@
+{
+  // this the manifest for you pack
+  // it contains basic information about your pack
+  // for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
+  "name": "TEVI PopTracker",
+  "game_name": "TEVI",
+  "package_version": "0.1.0",
+  "package_uid": "tev",
+  // enables SNES memory autotracking interface - remove/change if not needed
+  "platform": "PC",
+  "author": "vgm",
+  "min_poptracker_version": "0.25.9",
+  // put the version you tested against here!
+  "target_poptracker_version": "0.28.0",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        // enables AP autotracking interface - remove if not needed
+        "ap"
+      ]
+    },
+    "var_itemsonly": {
+      "display_name": "Items Only",
+      "flags": [
+        // enables AP autotracking interface - remove if not needed
+        "ap"
+      ]
+    }
+  }
+}
