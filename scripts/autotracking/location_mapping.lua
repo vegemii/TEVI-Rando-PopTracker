@@ -5,7 +5,7 @@
 -- here are the SM locations as an example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/scripts/autotracking/location_mapping.lua
 BASE_LOCATION_ID = 44966541000
 LOCATION_MAPPING = {
-	-- Oasis --
+	-- Oasis
 	[BASE_LOCATION_ID + 0] = { { "@Oasis/Oasis - Upper Slash: Volley/Upper Slash: Volley" } },
 	[BASE_LOCATION_ID + 1] = { { "@Oasis/Oasis - Explorer's Compass/Explorer's Compass" } },
 	[BASE_LOCATION_ID + 2] = { { "@Oasis/Oasis - Boss/PK Recon Badge" } },
@@ -19,7 +19,7 @@ LOCATION_MAPPING = {
 	[BASE_LOCATION_ID + 10] = { { "@Oasis/Oasis - Rabi Boots/Rabi Boots" } },
 	[BASE_LOCATION_ID + 11] = { { "@Oasis/Oasis - MP Surge: Concuss/MP Surge: Concuss" } },
 	
-	-- Thanatara Canyon --
+	-- Thanatara Canyon
 	[BASE_LOCATION_ID + 27] = { { "@Thanatara Canyon/Thanatara Canyon - Spanner of Wisdom/Spanner of Wisdom" } },
 	[BASE_LOCATION_ID + 30] = { { "@Thanatara Canyon/Thanatara Canyon - Health Plus/Health Plus" } },
 	[BASE_LOCATION_ID + 31] = { { "@Thanatara Canyon/Thanatara Canyon - C.Count Frenzy: Hotshot/C.Count Frenzy: Hotshot" } },
@@ -32,7 +32,7 @@ LOCATION_MAPPING = {
 	[BASE_LOCATION_ID + 38] = { { "@Thanatara Canyon/Thanatara Canyon - Cross Bombs/Cross Bombs" } },
 	[BASE_LOCATION_ID + 39] = { { "@Thanatara Canyon/Thanatara Canyon - Cherry Bunny Potion/Cherry Bunny Potion" } },
 	
-	-- Gurun Desert --
+	-- Gurun Desert
 	[BASE_LOCATION_ID + 40] = { { "@Gurun Desert/Gurun Desert - Kiwi Bunny Potion/Kiwi Bunny Potion" } },
 	[BASE_LOCATION_ID + 41] = { { "@Gurun Desert/Gurun Desert - Cherry Bunny Potion/Cherry Bunny Potion" } },
 	[BASE_LOCATION_ID + 42] = { { "@Gurun Desert/Gurun Desert - Spanner Bash: Wrecker/Spanner Bash: Wrecker" } },
