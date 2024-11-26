@@ -22,11 +22,11 @@
 		]
 	},
 	{
-				"name": "Thanatara Canyon - TEVI's House",
+				"name": "Thanatara Canyon - C.Rank Frenzy: Attack",
 				"access_rules": [],
 				"sections":[
 			{
-				"name": "Sigil",
+				"name": "C.Rank Frenzy: Attack",
 				"item_count": 1
 			}
 		],
@@ -94,11 +94,11 @@
 		]
 	},
 	{
-				"name": "Thanatara Canyon - C.Rank Frenzy: Hotshot",
+				"name": "Thanatara Canyon - C.Count Frenzy: Hotshot",
 				"access_rules": [],
 				"sections":[
 			{
-				"name": "C.Rank Frenzy: Hotshot",
+				"name": "C.Count Frenzy: Hotshot",
 				"item_count": 1
 			}
 		],
@@ -148,11 +148,11 @@
 		]
 	},
 	{
-				"name": "Thanatara Canyon - East Sigil",
+				"name": "Thanatara Canyon - MP Quicken: Steady",
 				"access_rules": [],
 				"sections":[
 			{
-				"name": "Sigil",
+				"name": "MP Quicken: Steady",
 				"item_count": 1
 			}
 		],
@@ -166,11 +166,11 @@
 		]
 	},
 	{
-				"name": "Thanatara Canyon - South Sigil",
+				"name": "Thanatara Canyon - Even Keel",
 				"access_rules": [],
 				"sections":[
 			{
-				"name": "Sigil",
+				"name": "Even Keel",
 				"item_count": 1
 			}
 		],
