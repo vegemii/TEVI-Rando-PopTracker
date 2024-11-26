@@ -39,6 +39,25 @@
 			}
 		]
 	},
+	/*{
+				"name": "Thanatara Canyon - Elite Challenge B NPC",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Elite Challenge B NPC",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "canyon",
+				"x": 423,
+				"y": 335
+			}
+		]
+	},
+	*/
 	{
 				"name": "Thanatara Canyon - Health Plus",
 				"access_rules": [],

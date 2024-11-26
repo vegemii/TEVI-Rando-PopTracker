@@ -61,6 +61,15 @@
         {
           "type": "tabbed",
           "tabs": [
+			{
+              "title": "Oasis",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "oasis"
+                ]
+              }
+            },		   
             {
               "title": "Thanatara Canyon",
               "content": {
@@ -71,7 +80,7 @@
               }
             },
             {
-              "title": "Desert",
+              "title": "Gurun Desert",
               "content": {
                 "type": "map",
                 "maps": [
