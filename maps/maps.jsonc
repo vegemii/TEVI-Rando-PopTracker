@@ -7,9 +7,9 @@
     "img": "images/maps/canyon.png"
   },
   {
-    "name": "map2",
+    "name": "desert",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/map_2.png"
+    "img": "images/maps/desert.png"
   }
 ]

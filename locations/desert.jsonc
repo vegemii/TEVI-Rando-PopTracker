@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Gurun Desert",
+    "children": 
+		[
+			{
+				"name": "Gurun Desert - Elite Challenge A",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Crystallize",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "desert",
+				"x": 436,
+				"y": 353
+			}
+		]
+	},
+	{
+				"name": "Gurun Desert - Spanner Bash: Wrecker",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Spanner Bash: Wrecker",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "desert",
+				"x": 1185,
+				"y": 262
+			}
+		]
+	},
+	{
+				"name": "Gurun Desert - Cherry Bunny Potion",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Cherry Bunny Potion",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "desert",
+				"x": 527,
+				"y": 267
+			}
+		]
+	},
+	{
+				"name": "Gurun Desert - Kiwi Bunny Potion",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Kiwi Bunny Potion",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "desert",
+				"x": 715,
+				"y": 459
+			}
+		]
+	}
+    ]
+  }
+]

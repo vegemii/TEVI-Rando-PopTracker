@@ -71,11 +71,11 @@
               }
             },
             {
-              "title": "Map 2",
+              "title": "Desert",
               "content": {
                 "type": "map",
                 "maps": [
-                  "map2"
+                  "desert"
                 ]
               }
             }
