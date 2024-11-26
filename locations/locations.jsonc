@@ -1,57 +1,188 @@
 [
   {
-    "name": "Example Parent",
-    "children": [
-      {
-        "name": "Example Location 1",
-        "access_rules": [
-          //read as: progressive_2 or toggle
-          "progressive_2",
-          "toggle"
-        ],
-        "sections": [
-          {
-            "name": "Example Section 1",
-            "item_count": 1
-          },
-          {
-            "name": "Example Section 2",
-            "item_count": 3
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "canyon",
-            "x": 1750,
-            "y": 700
-          },
-          {
-            "map": "map2",
-            "x": 1000,
-            "y": 500
-          }
-        ]
-      },
-      {
-        "name": "Example Location 2",
-        "access_rules": [
-          //read as: progressive_toggle_2 and has more than 4 consumable
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
-        ],
-        "sections": [
-          {
-            "name": "Example Section 1",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "canyon",
-            "x": 1500,
-            "y": 400
-          }
-        ]
-      }
+    "name": "Thanatara Canyon",
+    "children": 
+		[
+			{
+				"name": "Thanatara Canyon - Spanner of Wisdom",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Spanner of Wisdom",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "canyon",
+				"x": 151,
+				"y": 295
+			}
+		]
+	},
+	{
+				"name": "Thanatara Canyon - TEVI's House",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Sigil",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "canyon",
+				"x": 228,
+				"y": 138
+			}
+		]
+	},
+	{
+				"name": "Thanatara Canyon - Health Plus",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Health Plus",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "canyon",
+				"x": 268,
+				"y": 294
+			}
+		]
+	},
+	{
+				"name": "Thanatara Canyon - North Blueberry Bunny Potion",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Blueberry Bunny Potion",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "canyon",
+				"x": 307,
+				"y": 294
+			}
+		]
+	},
+	{
+				"name": "Thanatara Canyon - Cherry Bunny Potion",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Cherry Bunny Potion",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "canyon",
+				"x": 465,
+				"y": 180
+			}
+		]
+	},
+	{
+				"name": "Thanatara Canyon - C.Rank Frenzy: Hotshot",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "C.Rank Frenzy: Hotshot",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "canyon",
+				"x": 307,
+				"y": 335
+			}
+		]
+	},
+	{
+				"name": "Thanatara Canyon - Cross Bombs",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Cross Bombs",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "canyon",
+				"x": 307,
+				"y": 375
+			}
+		]
+	},
+	{
+				"name": "Thanatara Canyon - South Blueberry Bunny Potion",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Blueberry Bunny Potion",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "canyon",
+				"x": 345,
+				"y": 375
+			}
+		]
+	},
+	{
+				"name": "Thanatara Canyon - East Sigil",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Sigil",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "canyon",
+				"x": 465,
+				"y": 411
+			}
+		]
+	},
+	{
+				"name": "Thanatara Canyon - South Sigil",
+				"access_rules": [],
+				"sections":[
+			{
+				"name": "Sigil",
+				"item_count": 1
+			}
+		],
+		"map_locations":
+		[
+			{	
+				"map": "canyon",
+				"x": 307,
+				"y": 491
+			}
+		]
+	}
     ]
   }
 ]
