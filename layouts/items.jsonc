@@ -53,7 +53,9 @@
   ["boost", "boostU", "boostD", "ticketHell", "ticketHeaven"],
   ["knifeCombo", "knifeExtend", "orbRapid", "ringDodge", "gauntlet"],
   ["compass", "paw", "level", "key", "handLeft"],
-  ["handRight", "hands", "pillow", "", "gear"]
+  ["handRight", "hands", "pillow", "", ""],
+  ["hp", "mp", "ep", "matk", "ratk"],
+  ["shard", "bag", "", "", "gear"]
 
             ]
         }

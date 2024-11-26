@@ -1,7 +1,9 @@
 [
 	{
 		"name": "Knife",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/knife.png",
 		"codes": "knife"
 	},
@@ -41,61 +43,47 @@
 
 	{
 		"name": "Cross Bomb",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/bomb_Place.png",
 		"codes": "bombs"
 	},
 
 	{
 		"name": "Cluster Bomb",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/bomb_Throw.png",
 		"codes": "bombThrow"
 	},
 
 	{
 		"name": "Bomb Fuel",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/bomb_Rocks.png",
 		"codes": "bombFuel"
 	},
 
 	{
 		"name": "Combustible",
-		"type": "progressive",
-		"stages": [
-		{
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/bomb_Range.png",
 		"codes": "bombRange1"
-		},
-		{
-		"img": "images/items/bomb_Range2.png",
-		"codes": "bombRange2"
-		},
-		{
-		"img": "images/items/bomb_Range3.png",
-		"codes": "bombRange3"
-		}
-		]
 	},
 
 	{
 		"name": "Speed Boots",
-		"type": "progressive",
-		"stages": [
-		{
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/speed.png",
 		"codes": "speed1"
-		},
-		{
-		"img": "images/items/speed2.png",
-		"codes": "speed2"
-		},
-		{
-		"img": "images/items/speed3.png",
-		"codes": "speed3"
-		}
-		]
 	},
 	
 	{
@@ -114,7 +102,9 @@
 
 	{
 		"name": "Air Dash",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/dash.png",
 		"codes": "airDash"
 	},
@@ -135,21 +125,11 @@
 
 	{
 		"name": "Wall Jump",
-		"type": "progressive",
-		"stages": [
-		{
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/jump_Wall.png",
 		"codes": "wallJump1"
-		},
-		{
-		"img": "images/items/jump_Wall2.png",
-		"codes": "wallJump2"
-		},
-		{
-		"img": "images/items/jump_Wall3.png",
-		"codes": "wallJump3"
-		}
-		]
 	},
 
 	{
@@ -161,21 +141,11 @@
 
 	{
 		"name": "Jetpack",
-		"type": "progressive",
-		"stages": [
-		{
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/jetpack.png",
 		"codes": "jetpack1"
-		},
-		{
-		"img": "images/items/jetpack2.png",
-		"codes": "jetpack2"
-		},
-		{
-		"img": "images/items/jetpack3.png",
-		"codes": "jetpack3"
-		}
-		]
 	},
 
 	{
@@ -187,7 +157,9 @@
 
 	{
 		"name": "Vortex Gloves",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/vortex.png",
 		"codes": "vortex"
 	},
@@ -201,7 +173,9 @@
 
 	{
 		"name": "Decay Mask",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/decay_Mask.png",
 		"codes": "decayMask"
 	},
@@ -222,7 +196,9 @@
 
 	{
 		"name": "Equilibrium Ring",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/ring_Temp.png",
 		"codes": "ringTemp"
 	},
@@ -236,7 +212,9 @@
 
 	{
 		"name": "Soul Burst",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/burst.png",
 		"codes": "burst"
 	},
@@ -271,7 +249,9 @@
 
 	{
 		"name": "Blueprints",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/orb_Boost.png",
 		"codes": "boost"
 	},
@@ -306,42 +286,54 @@
 
 	{
 		"name": "Spanner",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/knife_Combo.png",
 		"codes": "knifeCombo"
 	},
 
 	{
 		"name": "Melee Extender",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/knife_Extend.png",
 		"codes": "knifeExtend"
 	},
 
 	{
 		"name": "Rapid Shots",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/orb_Rapid.png",
 		"codes": "orbRapid"
 	},
 
 	{
 		"name": "Dodge Ring",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/ring_Dodge.png",
 		"codes": "ringDodge"
 	},
 
 	{
 		"name": "Gauntlet",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/gauntlet.png",
 		"codes": "gauntlet"
 	},
 
 	{
 		"name": "Compass",
-		"type": "toggle",
+		"type": "consumable",
+		"max_quantity": 3,
+		"increment": 1,
 		"img": "images/items/compass.png",
 		"codes": "compass"
 	},
@@ -393,6 +385,62 @@
 		"type": "toggle",
 		"img": "images/items/pillow.png",
 		"codes": "pillow"
+	},
+	{
+		"name": "Kiwi Bunny Potion",
+		"type": "consumable",
+		"max_quantity": 255,
+		"increment": 1,
+		"img": "images/items/potion_HP.png",
+		"codes": "hp"
+	},
+	{
+		"name": "Blueberry Bunny Potion",
+		"type": "consumable",
+		"max_quantity": 255,
+		"increment": 1,
+		"img": "images/items/potion_MP.png",
+		"codes": "mp"
+	},
+	{
+		"name": "Lemon Bunny Potion",
+		"type": "consumable",
+		"max_quantity": 255,
+		"increment": 1,
+		"img": "images/items/potion_EP.png",
+		"codes": "ep"
+	},
+	{
+		"name": "Cherry Bunny Potion",
+		"type": "consumable",
+		"max_quantity": 255,
+		"increment": 1,
+		"img": "images/items/potion_M.png",
+		"codes": "matk"
+	},
+	{
+		"name": "Grape Bunny Potion",
+		"type": "consumable",
+		"max_quantity": 255,
+		"increment": 1,
+		"img": "images/items/potion_R.png",
+		"codes": "ratk"
+	},
+	{
+		"name": "Rainbow Bunny Potion",
+		"type": "consumable",
+		"max_quantity": 255,
+		"increment": 1,
+		"img": "images/items/potion_All.png",
+		"codes": "shard"
+	},
+	{
+		"name": "Bag Expander",
+		"type": "consumable",
+		"max_quantity": 255,
+		"increment": 1,
+		"img": "images/items/bag_1.png",
+		"codes": "bag"
 	},
 	{
 		"name": "Astral Gear",
