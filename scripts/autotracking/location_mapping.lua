@@ -15,5 +15,12 @@ LOCATION_MAPPING = {
 	[BASE_LOCATION_ID + 36] = { { "@Thanatara Canyon/Thanatara Canyon - North Blueberry Bunny Potion/Blueberry Bunny Potion" } },
 	[BASE_LOCATION_ID + 37] = { { "@Thanatara Canyon/Thanatara Canyon - South Blueberry Bunny Potion/Blueberry Bunny Potion" } },
 	[BASE_LOCATION_ID + 38] = { { "@Thanatara Canyon/Thanatara Canyon - Cross Bombs/Cross Bombs" } },
-	[BASE_LOCATION_ID + 39] = { { "@Thanatara Canyon/Thanatara Canyon - Cherry Bunny Potion/Cherry Bunny Potion" } }
+	[BASE_LOCATION_ID + 39] = { { "@Thanatara Canyon/Thanatara Canyon - Cherry Bunny Potion/Cherry Bunny Potion" } },
+	
+	-- Gurun Desert --
+	[BASE_LOCATION_ID + 40] = { { "@Gurun Desert/Gurun Desert - Kiwi Bunny Potion/Kiwi Bunny Potion" } },
+	[BASE_LOCATION_ID + 41] = { { "@Gurun Desert/Gurun Desert - Cherry Bunny Potion/Cherry Bunny Potion" } },
+	[BASE_LOCATION_ID + 42] = { { "@Gurun Desert/Gurun Desert - Spanner Bash: Wrecker/Spanner Bash: Wrecker" } },
+	[BASE_LOCATION_ID + 43] = { { "@Gurun Desert/Gurun Desert - Elite Challenge A/Crystallize" } }
+
 }
